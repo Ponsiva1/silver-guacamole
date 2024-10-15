@@ -10,7 +10,7 @@ import org.testng.asserts.SoftAssert;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
+public class SeleniumPractice 
 {
     /**
      * Rigorous Test :-)
