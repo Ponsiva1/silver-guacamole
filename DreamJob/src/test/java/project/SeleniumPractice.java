@@ -36,6 +36,9 @@ public class SeleniumPractice
            Assert.assertEquals(driver.getTitle(), "Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in");
 
           driver.quit();
+
+            driver.quit();
+        
     }
  
 }
