@@ -38,8 +38,6 @@ public class SeleniumPractice
         driver.quit();
       
             driver.getURL();
-
-        driver.check();
     }
  
 }
